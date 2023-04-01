@@ -1,0 +1,1001 @@
+ID,activity_code
+1,16-500 - Lighting
+9,2-300 - Earthwork
+17,2-240 - Dewatering
+25,11-190 - Detention Equipment
+33,17-020 - Insurance
+41,13-185 - Kennels and Animal Shelters
+49,16-400 - Low-Voltage Distribution
+57,1-515 - Temporary Lighting
+65,1-540 - Construction Aids
+73,11-450 - Residential Equipment
+81,13-175 - Ice Rinks
+89,2-370 - Erosion and Sedimentation Control
+97,4-400 - Stone
+105,12-050 - Fabrics
+113,17 - Markup and Contingency
+121,2-220 - Site Demolition
+129,10-670 - Storage Shelving
+137,2-316 - Backfilling
+145,13-220 - Filter Underdrains and Media
+153,1-523 - Sanitary Facilities
+161,3-500 - Cementitious Decks and Underlayments
+169,2-813 - Lawn Sprinkling and Irrigation
+177,11-280 - Hydraulic Gates and Valves
+185,11-130 - Audio-Visual Equipment
+193,2-362 - Termite Control
+201,11-080 - Registration Equipment
+209,10-550 - Postal Specialties
+217,10-880 - Scales
+225,8-800 - Glazing
+233,13-160 - Aquariums
+241,9-600 - Flooring
+249,11-660 - Observatory Equipment
+257,4-800 - Masonry Assemblies
+265,11-170 - Solid Waste Handling Equipment
+273,3-400 - Precast Concrete
+281,3-310 - Expansion Joints
+289,2-823 - PVC Fences and Gates
+297,8-600 - Skylights
+305,5-050 - Basic Metal Materials and Methods
+313,10-340 - Manufactured Exterior Specialties
+321,2-362 - Termite Control
+329,10-500 - Lockers
+337,4-700 - Simulated Masonry
+345,9-800 - Acoustical Treatment
+353,11-160 - Loading Dock Equipment
+361,9-600 - Flooring
+369,13-220 - Filter Underdrains and Media
+377,11-160 - Loading Dock Equipment
+385,1-550 - Vehicular Access and Parking
+393,1-700 - Execution Requirements
+401,13-010 - Air-Supported Structures
+409,11-850 - Navigation Equipment
+417,2-621 - Foundatation Drainage Piping
+425,11-500 - Industrial and Process Equipment
+433,14-200 - Elevators
+441,3-500 - Cementitious Decks and Underlayments
+449,12-600 - Multiple Seating
+457,6-900 - Wood and Plastic Restoration and Cleaning
+465,16-400 - Low-Voltage Distribution
+473,9-400 - Terrazzo
+481,5-700 - Ornamental Metal
+489,10 - Specialties
+497,3-350 - Concrete Finishing
+505,2-240 - Dewatering
+513,1-530 - Temporary Construction
+521,"1-514 - Temporary Heating, Cooling and Ventilation"
+529,2-780 - Clay Unit Pavers
+537,11-060 - Theater and Stage Equipment
+545,11-470 - Darkroom Equipment
+553,7-800 - Fire and Smoke Protection
+561,9-700 - Wall Finishes
+569,2-935 - Plant Maintenance
+577,1-500 - Temporary Facilities and Controls
+585,11-020 - Security and Vault Equipment
+593,13-120 - Pre-Engineered Structures
+601,2-824 - Wire Fences and Gates
+609,2-310 - Grading
+617,10-290 - Pest Control
+625,2-300 - Earthwork
+633,9-250 - Gypsum Wallboard
+641,11-110 - Commercial Laundry and Dry Cleaning Equipment
+649,12-800 - Interior Plants and Planters
+657,13-260 - Sludge Conditioning Systems
+665,10-700 - Exterior Protection
+673,13-240 - Oxygenation Systems
+681,7-900 - Joint Sealers
+689,10-100 - Visual Display Boards
+697,10-260 - Wall and Corner Guards
+705,1-570 - Temporary Controls
+713,3-100 - Concrete Reinforcement
+721,2-300 - Earthwork
+729,3-300 - Footings
+737,13-030 - Special Purpose Rooms
+745,2-782 - Brick Pavers
+753,5-500 - Metal Fabrications
+761,11-850 - Navigation Equipment
+769,2-320 - Excavation and Fill
+777,15-600 - Refrigeration Equipment
+785,2-830 - Retaining Walls
+793,9-100 - Metal Support Assemblies
+801,11-100 - Mercantile Equipment
+809,"10-800 - Toilet, Bath, and Laundry Specialties"
+817,2-781 - Asphalt Pavers
+825,13 - Special Construction
+833,13-170 - Tubs and Pools
+841,16-500 - Lighting
+849,3-500 - Cementitious Decks and Underlayments
+857,2-930 - Exterior Plants
+865,2-220 - Site Demolition
+873,8-100 - Doors
+881,7-600 - Flashing and Sheet Metal
+889,7-600 - Flashing and Sheet Metal
+897,10 - Specialties
+905,14-600 - Hoists and Cables
+913,10-100 - Visual Display Boards
+921,11-280 - Hydraulic Gates and Valves
+929,7-800 - Fire and Smoke Protection
+937,1-600 - Product Requirements (Scope of Work)
+945,"11-480 - Athletic, Recreational, and Therapeutic Equipment"
+953,15-500 - Heat-Generation Equipment
+961,10-340 - Manufactured Exterior Specialties
+969,2-315 - Excavation
+977,2-362 - Termite Control
+985,13-150 - Swimming Pools
+993,13-260 - Sludge Conditioning Systems
+1001,5 - Metals
+1009,1-550 - Vehicular Access and Parking
+1017,2-820 - Fences and Gates
+1025,2-780 - Clay Unit Pavers
+1033,8-600 - Skylights
+1041,13-260 - Sludge Conditioning Systems
+1049,4-900 - Masonry Restoration and Cleaning
+1057,13-200 - Storage Tanks
+1065,5-600 - Hydraulic Fabrications
+1073,4-200 - Masonry Units
+1081,13-030 - Special Purpose Rooms
+1089,13-260 - Sludge Conditioning Systems
+1097,9-680 - Carpet
+1105,4-400 - Stone
+1113,15-100 - Plumbing
+1121,1-010 - Project Manager
+1129,11-080 - Registration Equipment
+1137,15-050 - Basic Mechanical Materials and Methods
+1145,"10-800 - Toilet, Bath, and Laundry Specialties"
+1153,15-400 - Plumbing Fixtures and Equipment
+1161,2-900 - Landscaping
+1169,15-300 - Fire Protection Piping
+1177,2-260 - Excavation Support and Protection
+1185,10-530 - Protective Covers
+1193,13-700 - Security Access and Surveillance
+1201,2-220 - Site Demolition
+1209,2-315 - Excavation
+1217,10-400 - Identification Devices
+1225,2-740 - Flexible Pavement Asphalt Pavement
+1233,6-100 - Rough Carpentry
+1241,17-010 - Contingency
+1249,2-220 - Site Demolition
+1257,11-030 - Teller and Service Equipment
+1265,8-050 - Basic Door and Window Materials and Methods
+1273,1-510 - Temporary Utilities
+1281,10-400 - Identification Devices
+1289,9-300 - Tile
+1297,10-260 - Wall and Corner Guards
+1305,16-500 - Lighting
+1313,2-312 - Rough Grading
+1321,2-625 - Retaining Wall Drainage Piping
+1329,9-600 - Flooring
+1337,11-470 - Darkroom Equipment
+1345,10-200 - Louvers and Vents
+1353,7-600 - Flashing and Sheet Metal
+1361,6-900 - Wood and Plastic Restoration and Cleaning
+1369,3-330 - Poured Concrete Basement Walls
+1377,2-784 - Stone Unit Pavers
+1385,13-400 - Measurement and Control Instrumentation
+1393,1-530 - Temporary Construction
+1401,15-200 - Process Piping
+1409,2-830 - Retaining Walls
+1417,15-050 - Basic Mechanical Materials and Methods
+1425,11-660 - Observatory Equipment
+1433,1-570 - Temporary Controls
+1441,16-200 - Electrical Power
+1449,14 - Conveying Systems
+1457,16-500 - Lighting
+1465,1-600 - Product Requirements (Scope of Work)
+1473,13-030 - Special Purpose Rooms
+1481,2-300 - Earthwork
+1489,2-812 - Drip Irrigation
+1497,7-400 - Roofing and Siding Panels
+1505,11-450 - Residential Equipment
+1513,2-316 - Backfilling
+1521,2-317 - Select Borrow
+1529,14-700 - Turntables
+1537,3-540 - Cementitious Underlayments
+1545,5-200 - Metal Joists
+1553,2-240 - Dewatering
+1561,1-515 - Temporary Lighting
+1569,1-580 - Project Identification
+1577,2-915 - Mulch
+1585,2-310 - Grading
+1593,2-500 - Utility Services
+1601,15-500 - Heat-Generation Equipment
+1609,1-600 - Product Requirements (Scope of Work)
+1617,8-050 - Basic Door and Window Materials and Methods
+1625,16-200 - Electrical Power
+1633,11-060 - Theater and Stage Equipment
+1641,4 - Masonry
+1649,1-520 - Construction Facilities
+1657,2-540 - Septic Tank
+1665,1-740 - Cleaning
+1673,16 - Electrical
+1681,11-470 - Darkroom Equipment
+1689,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+1697,10-700 - Exterior Protection
+1705,5-800 - Expansion Control
+1713,2-740 - Flexible Pavement Asphalt Pavement
+1721,7-500 - Membrane Roofing
+1729,11-700 - Medical Equipment
+1737,11-460 - Unit Kitchens
+1745,10-150 - Compartments and Cubicles
+1753,13-850 - Detection and Alarm
+1761,1-600 - Product Requirements (Scope of Work)
+1769,2-936 - Fertilizer
+1777,12-050 - Fabrics
+1785,2-783 - Interlocking Concrete Unit Paving
+1793,13-230 - Digester Covers and Appurtenances
+1801,8-200 - Wood and Plastic Doors
+1809,3-300 - Footings
+1817,11-470 - Darkroom Equipment
+1825,9-900 - Paints and Coatings
+1833,9-700 - Wall Finishes
+1841,3-230 - Anchor Bolts
+1849,2-315 - Excavation
+1857,4-600 - Corrosion-Resistant Masonry
+1865,1-640 - Owner Furnished Products
+1873,10-530 - Protective Covers
+1881,2-200 - Site Preparation
+1889,7-900 - Joint Sealers
+1897,1-550 - Vehicular Access and Parking
+1905,16-200 - Electrical Power
+1913,11-160 - Loading Dock Equipment
+1921,13-220 - Filter Underdrains and Media
+1929,10-670 - Storage Shelving
+1937,10-260 - Wall and Corner Guards
+1945,3-330 - Poured Concrete Basement Walls
+1953,4-050 - Basic Masonry Materials and Methods
+1961,1-011 - Project Engineer
+1969,10-880 - Scales
+1977,11-080 - Registration Equipment
+1985,10-550 - Postal Specialties
+1993,10-150 - Compartments and Cubicles
+2001,9-700 - Wall Finishes
+2009,1-000 - Purpose
+2017,7-100 - Damproofing and Waterproofing
+2025,8-050 - Basic Door and Window Materials and Methods
+2033,11-300 - Fluid Waste Treatment and Disposal Equipment
+2041,1-570 - Temporary Controls
+2049,14-800 - Scaffolding
+2057,13-900 - Fire Suppression
+2065,6-500 - Structural Plastics
+2073,2-500 - Utility Services
+2081,9-050 - Basic Finish Materials and Methods
+2089,3-000 - General
+2097,1-000 - Purpose
+2105,11-150 - Parking Control Equipment
+2113,12-800 - Interior Plants and Planters
+2121,2-770 - Curb and Gutters
+2129,7-400 - Roofing and Siding Panels
+2137,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+2145,2-312 - Rough Grading
+2153,10-300 - Fireplaces and Stoves
+2161,16 - Electrical
+2169,16-500 - Lighting
+2177,12-100 - Art
+2185,12-500 - Furniture
+2193,13-185 - Kennels and Animal Shelters
+2201,2-230 - Site Clearing
+2209,11-660 - Observatory Equipment
+2217,9-500 - Ceilings
+2225,17-040 - Profit
+2233,13-170 - Tubs and Pools
+2241,10-450 - Pedestrian Control Devices
+2249,2-790 - Athletic Surfacing
+2257,6-600 - Plastic Fabrications
+2265,6-200 - Finish Carpentry
+2273,14-900 - Transportation
+2281,13-700 - Security Access and Surveillance
+2289,2-780 - Clay Unit Pavers
+2297,15 - Mechanical
+2305,9-300 - Tile
+2313,2-850 - Bridges/Footbridges
+2321,3-000 - General
+2329,"15-700 - Heating, Venting and Air Conditioning"
+2337,2-311 - Final Grading
+2345,1-740 - Cleaning
+2353,2-260 - Excavation Support and Protection
+2361,2-230 - Site Clearing
+2369,2-220 - Site Demolition
+2377,1-640 - Owner Furnished Products
+2385,11-100 - Mercantile Equipment
+2393,13-090 - Radiation Protection
+2401,9-100 - Metal Support Assemblies
+2409,10-450 - Pedestrian Control Devices
+2417,7-900 - Joint Sealers
+2425,2-780 - Clay Unit Pavers
+2433,13-160 - Aquariums
+2441,10-150 - Compartments and Cubicles
+2449,9-680 - Carpet
+2457,5-400 - Cold-Formed Metal Framing
+2465,13-150 - Swimming Pools
+2473,2-317 - Select Borrow
+2481,7 - Thermal and Moisture Protection
+2489,1-523 - Sanitary Facilities
+2497,2-317 - Select Borrow
+2505,11-090 - Checkroom Equipment
+2513,3-230 - Anchor Bolts
+2521,10-670 - Storage Shelving
+2529,7-600 - Flashing and Sheet Metal
+2537,1-511 - Temporary Electricity
+2545,9-600 - Flooring
+2553,11-450 - Residential Equipment
+2561,11 - Equipment
+2569,10-750 - Telephone Specialties
+2577,11-650 - Planetarium Equipment
+2585,1-700 - Execution Requirements
+2593,6-050 - Basic Wood and Plastic Materials and Methods
+2601,15-800 - Air Distribution
+2609,2-750 - Concrete Pads and Walks
+2617,15 - Mechanical
+2625,16-100 - Electrical
+2633,"11-480 - Athletic, Recreational, and Therapeutic Equipment"
+2641,8-600 - Skylights
+2649,1-560 - Temporary Barriers and Enclosures
+2657,1-510 - Temporary Utilities
+2665,1-540 - Construction Aids
+2673,11-650 - Planetarium Equipment
+2681,2-915 - Mulch
+2689,12-700 - Systems Furniture
+2697,2-300 - Earthwork
+2705,11-400 - Food Service Equipment
+2713,7-900 - Joint Sealers
+2721,12-800 - Interior Plants and Planters
+2729,1-540 - Construction Aids
+2737,7-200 - Thermal Protection - Insulation
+2745,13-260 - Sludge Conditioning Systems
+2753,2-311 - Final Grading
+2761,6-100 - Rough Carpentry
+2769,2-300 - Earthwork
+2777,11-500 - Industrial and Process Equipment
+2785,11-110 - Commercial Laundry and Dry Cleaning Equipment
+2793,11-120 - Vending Equipment
+2801,6-100 - Rough Carpentry
+2809,2-750 - Concrete Pads and Walks
+2817,14 - Conveying Systems
+2825,2-915 - Mulch
+2833,12-700 - Systems Furniture
+2841,2-625 - Retaining Wall Drainage Piping
+2849,3-400 - Precast Concrete
+2857,11-400 - Food Service Equipment
+2865,2-917 - Soil Preparation
+2873,16-800 - Sound and Video
+2881,7-200 - Thermal Protection - Insulation
+2889,8-400 - Entrances and Storefronts
+2897,2-750 - Concrete Pads and Walks
+2905,2-823 - PVC Fences and Gates
+2913,9-600 - Flooring
+2921,8-050 - Basic Door and Window Materials and Methods
+2929,6-600 - Plastic Fabrications
+2937,2-917 - Soil Preparation
+2945,16 - Electrical
+2953,11-100 - Mercantile Equipment
+2961,2-312 - Rough Grading
+2969,11-870 - Agricultural Equipment
+2977,11-150 - Parking Control Equipment
+2985,2 - Site Construction
+2993,10-820 - Bathroom Accessories
+3001,6-050 - Basic Wood and Plastic Materials and Methods
+3009,3-320 - Slab Foundations
+3017,2-900 - Landscaping
+3025,6-500 - Structural Plastics
+3033,1-712 - Local Conditions
+3041,11-100 - Mercantile Equipment
+3049,10-150 - Compartments and Cubicles
+3057,11-040 - Ecclesiastical Equipment
+3065,5-200 - Metal Joists
+3073,5-050 - Basic Metal Materials and Methods
+3081,5-700 - Ornamental Metal
+3089,9 - Finishes
+3097,11-190 - Detention Equipment
+3105,4-900 - Masonry Restoration and Cleaning
+3113,2-830 - Retaining Walls
+3121,2-740 - Flexible Pavement Asphalt Pavement
+3129,13-160 - Aquariums
+3137,10-600 - Partitions
+3145,13-220 - Filter Underdrains and Media
+3153,3-330 - Poured Concrete Basement Walls
+3161,11-170 - Solid Waste Handling Equipment
+3169,8-800 - Glazing
+3177,13-185 - Kennels and Animal Shelters
+3185,13-185 - Kennels and Animal Shelters
+3193,2-310 - Grading
+3201,13-110 - Cathodic Protection
+3209,4-800 - Masonry Assemblies
+3217,10-550 - Postal Specialties
+3225,13 - Special Construction
+3233,11-900 - Exhibit Equipment
+3241,7-600 - Flashing and Sheet Metal
+3249,13-550 - Transportation Control Instrumentation
+3257,5-600 - Hydraulic Fabrications
+3265,1-523 - Sanitary Facilities
+3273,2-540 - Septic Tank
+3281,9-500 - Ceilings
+3289,9-300 - Tile
+3297,3-310 - Expansion Joints
+3305,12-800 - Interior Plants and Planters
+3313,2-822 - Ornamental Metal Fences and Gates
+3321,2-740 - Flexible Pavement Asphalt Pavement
+3329,11-090 - Checkroom Equipment
+3337,13-165 - Aquatic Park Facilities
+3345,2-821 - Chain Link Fences
+3353,3 - Concrete
+3361,9-800 - Acoustical Treatment
+3369,2-830 - Retaining Walls
+3377,12-400 - Furnishings and Accessories
+3385,2-782 - Brick Pavers
+3393,8-300 - Specialty Doors
+3401,11-050 - Library Equipment
+3409,1-010 - Project Manager
+3417,15-600 - Refrigeration Equipment
+3425,11-600 - Laboratory Equipment
+3433,2-919 - Topsoil
+3441,15-400 - Plumbing Fixtures and Equipment
+3449,11-400 - Food Service Equipment
+3457,1-002 - Instructions
+3465,12 - Furnishings
+3473,11-070 - Instrumental Equipment
+3481,5 - Metals
+3489,11-280 - Hydraulic Gates and Valves
+3497,1-511 - Temporary Electricity
+3505,2-370 - Erosion and Sedimentation Control
+3513,9-700 - Wall Finishes
+3521,1-511 - Temporary Electricity
+3529,2-370 - Erosion and Sedimentation Control
+3537,11-070 - Instrumental Equipment
+3545,13-280 - Hazardous Material Remediation
+3553,15-300 - Fire Protection Piping
+3561,11-140 - Vehicle Service Equipment
+3569,7-500 - Membrane Roofing
+3577,12-600 - Multiple Seating
+3585,11-060 - Theater and Stage Equipment
+3593,1-511 - Temporary Electricity
+3601,9-250 - Gypsum Wallboard
+3609,5-200 - Metal Joists
+3617,1-510 - Temporary Utilities
+3625,1-904 - Hazardous Materials Removal and Disposal
+3633,12-300 - Manufactured Casework
+3641,12-800 - Interior Plants and Planters
+3649,10-880 - Scales
+3657,14-400 - Lifts
+3665,2-316 - Backfilling
+3673,9 - Finishes
+3681,16-200 - Electrical Power
+3689,13-020 - Building Modules
+3697,11-080 - Registration Equipment
+3705,12-300 - Manufactured Casework
+3713,1-570 - Temporary Controls
+3721,10-200 - Louvers and Vents
+3729,8-100 - Doors
+3737,15-300 - Fire Protection Piping
+3745,15-050 - Basic Mechanical Materials and Methods
+3753,1-523 - Sanitary Facilities
+3761,12 - Furnishings
+3769,10-600 - Partitions
+3777,13-240 - Oxygenation Systems
+3785,8-900 - Glazed Curtain Wall
+3793,2-782 - Brick Pavers
+3801,9-700 - Wall Finishes
+3809,11-050 - Library Equipment
+3817,11-070 - Instrumental Equipment
+3825,"10-800 - Toilet, Bath, and Laundry Specialties"
+3833,11-700 - Medical Equipment
+3841,11-280 - Hydraulic Gates and Valves
+3849,2-900 - Landscaping
+3857,15-600 - Refrigeration Equipment
+3865,1-520 - Construction Facilities
+3873,2-823 - PVC Fences and Gates
+3881,10-340 - Manufactured Exterior Specialties
+3889,11-650 - Planetarium Equipment
+3897,10-290 - Pest Control
+3905,1-510 - Temporary Utilities
+3913,"7-300 - Shingles, Roof Tiles, and Roof Coverings"
+3921,11-090 - Checkroom Equipment
+3929,10-880 - Scales
+3937,3 - Concrete
+3945,2-781 - Asphalt Pavers
+3953,10-530 - Protective Covers
+3961,4-400 - Stone
+3969,1-740 - Cleaning
+3977,1-500 - Temporary Facilities and Controls
+3985,11-190 - Detention Equipment
+3993,13-010 - Air-Supported Structures
+4001,9-800 - Acoustical Treatment
+4009,14-900 - Transportation
+4017,2-310 - Grading
+4025,1-550 - Vehicular Access and Parking
+4033,11 - Equipment
+4041,2-795 - Porous Paving
+4049,6 - Wood and Plastics
+4057,3-350 - Concrete Finishing
+4065,13-850 - Detection and Alarm
+4073,5-400 - Cold-Formed Metal Framing
+4081,1-013 - Project Coordinator
+4089,"13-080 - Sound, Vibration, and Seismic Control"
+4097,2-750 - Concrete Pads and Walks
+4105,14-100 - Dumbwaiters
+4113,8-600 - Skylights
+4121,10-150 - Compartments and Cubicles
+4129,7-200 - Thermal Protection - Insulation
+4137,11-400 - Food Service Equipment
+4145,3-210 - Cast-In-Place Concrete
+4153,11-400 - Food Service Equipment
+4161,2-780 - Clay Unit Pavers
+4169,5 - Metals
+4177,13-400 - Measurement and Control Instrumentation
+4185,2-812 - Drip Irrigation
+4193,12-400 - Furnishings and Accessories
+4201,2-310 - Grading
+4209,16-400 - Low-Voltage Distribution
+4217,"15-950 - Testing, Adjusting, and Balancing"
+4225,10-270 - Access Flooring
+4233,1-011 - Project Engineer
+4241,16-050 - Basic Electrical Materials and Methods
+4249,2-915 - Mulch
+4257,10-200 - Louvers and Vents
+4265,6-600 - Plastic Fabrications
+4273,1-010 - Project Manager
+4281,1-518 - Temporary Water
+4289,15-300 - Fire Protection Piping
+4297,2-317 - Select Borrow
+4305,2-790 - Athletic Surfacing
+4313,2-822 - Ornamental Metal Fences and Gates
+4321,1-904 - Hazardous Materials Removal and Disposal
+4329,13-600 - Solar and Wind Energy Equipment
+4337,11-160 - Loading Dock Equipment
+4345,1-511 - Temporary Electricity
+4353,9-680 - Carpet
+4361,2-230 - Site Clearing
+4369,10-820 - Bathroom Accessories
+4377,9-600 - Flooring
+4385,11-600 - Laboratory Equipment
+4393,6 - Wood and Plastics
+4401,2-825 - Wood Fences and Gates
+4409,2-200 - Site Preparation
+4417,13 - Special Construction
+4425,"1-514 - Temporary Heating, Cooling and Ventilation"
+4433,11 - Equipment
+4441,10-100 - Visual Display Boards
+4449,2-917 - Soil Preparation
+4457,8-100 - Doors
+4465,9 - Finishes
+4473,13-850 - Detection and Alarm
+4481,2-250 - Shoring and Underpinning
+4489,2-812 - Drip Irrigation
+4497,1-012 - Superintendent
+4505,13-175 - Ice Rinks
+4513,1-640 - Owner Furnished Products
+4521,11-010 - Maintenance Equipment
+4529,1-523 - Sanitary Facilities
+4537,1-515 - Temporary Lighting
+4545,13 - Special Construction
+4553,7-700 - Roof Specialties and Accessories
+4561,12-700 - Systems Furniture
+4569,13-900 - Fire Suppression
+4577,11-900 - Exhibit Equipment
+4585,2-812 - Drip Irrigation
+4593,"1-514 - Temporary Heating, Cooling and Ventilation"
+4601,4-200 - Masonry Units
+4609,5-400 - Cold-Formed Metal Framing
+4617,8-200 - Wood and Plastic Doors
+4625,2-821 - Chain Link Fences
+4633,12-900 - Furnishings Restoration and Repair
+4641,11-870 - Agricultural Equipment
+4649,11-780 - Mortuary Equipment
+4657,8-700 - Hardware
+4665,1-517 - Temporary Telephone
+4673,1-520 - Construction Facilities
+4681,16 - Electrical
+4689,2-750 - Concrete Pads and Walks
+4697,17-030 - Bond
+4705,15-400 - Plumbing Fixtures and Equipment
+4713,2-625 - Retaining Wall Drainage Piping
+4721,12-050 - Fabrics
+4729,13-090 - Radiation Protection
+4737,3-500 - Cementitious Decks and Underlayments
+4745,1-530 - Temporary Construction
+4753,7-700 - Roof Specialties and Accessories
+4761,4-800 - Masonry Assemblies
+4769,13-110 - Cathodic Protection
+4777,4-500 - Refractories
+4785,"15-700 - Heating, Venting and Air Conditioning"
+4793,3-500 - Cementitious Decks and Underlayments
+4801,2-919 - Topsoil
+4809,14-400 - Lifts
+4817,10-340 - Manufactured Exterior Specialties
+4825,13-550 - Transportation Control Instrumentation
+4833,7 - Thermal and Moisture Protection
+4841,11-450 - Residential Equipment
+4849,2-915 - Mulch
+4857,5-600 - Hydraulic Fabrications
+4865,4-050 - Basic Masonry Materials and Methods
+4873,11-080 - Registration Equipment
+4881,6-600 - Plastic Fabrications
+4889,10-500 - Lockers
+4897,14-300 - Escalators and Moving Walks
+4905,6-400 - Architectural Woodwork
+4913,11-190 - Detention Equipment
+4921,17-030 - Bond
+4929,2-800 - Site Amenities
+4937,2-812 - Drip Irrigation
+4945,13-030 - Special Purpose Rooms
+4953,2-930 - Exterior Plants
+4961,4-400 - Stone
+4969,11-600 - Laboratory Equipment
+4977,2-830 - Retaining Walls
+4985,9-900 - Paints and Coatings
+4993,7-600 - Flashing and Sheet Metal
+5001,6-600 - Plastic Fabrications
+5009,10-260 - Wall and Corner Guards
+5017,7-900 - Joint Sealers
+5025,13-900 - Fire Suppression
+5033,2-230 - Site Clearing
+5041,10-670 - Storage Shelving
+5049,12-700 - Systems Furniture
+5057,1-520 - Construction Facilities
+5065,1-520 - Construction Facilities
+5073,11-450 - Residential Equipment
+5081,10-550 - Postal Specialties
+5089,1-600 - Product Requirements (Scope of Work)
+5097,1-712 - Local Conditions
+5105,1-523 - Sanitary Facilities
+5113,3-050 - Concrete Subcontractor
+5121,1-013 - Project Coordinator
+5129,7-100 - Damproofing and Waterproofing
+5137,3-540 - Cementitious Underlayments
+5145,11-170 - Solid Waste Handling Equipment
+5153,2-362 - Termite Control
+5161,13-230 - Digester Covers and Appurtenances
+5169,13-170 - Tubs and Pools
+5177,10-270 - Access Flooring
+5185,3-300 - Footings
+5193,1-640 - Owner Furnished Products
+5201,14-100 - Dumbwaiters
+5209,10-200 - Louvers and Vents
+5217,2-317 - Select Borrow
+5225,11-090 - Checkroom Equipment
+5233,14-200 - Elevators
+5241,1-580 - Project Identification
+5249,2 - Site Construction
+5257,2-821 - Chain Link Fences
+5265,14-400 - Lifts
+5273,1-570 - Temporary Controls
+5281,7-100 - Damproofing and Waterproofing
+5289,11-280 - Hydraulic Gates and Valves
+5297,2-823 - PVC Fences and Gates
+5305,11-160 - Loading Dock Equipment
+5313,"13-080 - Sound, Vibration, and Seismic Control"
+5321,12-500 - Furniture
+5329,13-110 - Cathodic Protection
+5337,17-010 - Contingency
+5345,11-110 - Commercial Laundry and Dry Cleaning Equipment
+5353,13-600 - Solar and Wind Energy Equipment
+5361,13-170 - Tubs and Pools
+5369,11-060 - Theater and Stage Equipment
+5377,11-050 - Library Equipment
+5385,4-050 - Basic Masonry Materials and Methods
+5393,10-300 - Fireplaces and Stoves
+5401,1-012 - Superintendent
+5409,15-300 - Fire Protection Piping
+5417,7-700 - Roof Specialties and Accessories
+5425,5-800 - Expansion Control
+5433,11-170 - Solid Waste Handling Equipment
+5441,10 - Specialties
+5449,15-300 - Fire Protection Piping
+5457,16-200 - Electrical Power
+5465,4-900 - Masonry Restoration and Cleaning
+5473,10-500 - Lockers
+5481,7-100 - Damproofing and Waterproofing
+5489,13-100 - Lightning Protection
+5497,12-500 - Furniture
+5505,2-813 - Lawn Sprinkling and Irrigation
+5513,9-250 - Gypsum Wallboard
+5521,3-500 - Cementitious Decks and Underlayments
+5529,11-680 - Office Equipment
+5537,12-050 - Fabrics
+5545,1-570 - Temporary Controls
+5553,6-400 - Architectural Woodwork
+5561,2-250 - Shoring and Underpinning
+5569,10-340 - Manufactured Exterior Specialties
+5577,2-900 - Landscaping
+5585,6-050 - Basic Wood and Plastic Materials and Methods
+5593,2-917 - Soil Preparation
+5601,6-050 - Basic Wood and Plastic Materials and Methods
+5609,2-784 - Stone Unit Pavers
+5617,1-600 - Product Requirements (Scope of Work)
+5625,2-230 - Site Clearing
+5633,2-830 - Retaining Walls
+5641,16-500 - Lighting
+5649,11-200 - Water Supply and Treatment Equipment
+5657,3-600 - Grouts
+5665,7-100 - Damproofing and Waterproofing
+5673,13-900 - Fire Suppression
+5681,9-800 - Acoustical Treatment
+5689,7-200 - Thermal Protection - Insulation
+5697,"15-700 - Heating, Venting and Air Conditioning"
+5705,10-150 - Compartments and Cubicles
+5713,11-300 - Fluid Waste Treatment and Disposal Equipment
+5721,10-550 - Postal Specialties
+5729,4-050 - Basic Masonry Materials and Methods
+5737,12-100 - Art
+5745,8-300 - Specialty Doors
+5753,13-030 - Special Purpose Rooms
+5761,16-700 - Communications
+5769,8-500 - Windows
+5777,13-100 - Lightning Protection
+5785,1-011 - Project Engineer
+5793,2-200 - Site Preparation
+5801,11-050 - Library Equipment
+5809,2-936 - Fertilizer
+5817,13-280 - Hazardous Material Remediation
+5825,1-002 - Instructions
+5833,16 - Electrical
+5841,11-110 - Commercial Laundry and Dry Cleaning Equipment
+5849,1-630 - Product Substitution Procedures
+5857,1-542 - Construction Scaffolding and Platforms
+5865,11 - Equipment
+5873,5-100 - Structural Metals
+5881,1-542 - Construction Scaffolding and Platforms
+5889,14-600 - Hoists and Cables
+5897,7 - Thermal and Moisture Protection
+5905,1-523 - Sanitary Facilities
+5913,15-100 - Plumbing
+5921,16-800 - Sound and Video
+5929,10-550 - Postal Specialties
+5937,16-100 - Electrical
+5945,2-315 - Excavation
+5953,7-400 - Roofing and Siding Panels
+5961,10-520 - Fire Protection Specialties
+5969,14-700 - Turntables
+5977,2-220 - Site Demolition
+5985,17 - Markup and Contingency
+5993,5-700 - Ornamental Metal
+6001,12-100 - Art
+6009,5-200 - Metal Joists
+6017,2-250 - Shoring and Underpinning
+6025,1-640 - Owner Furnished Products
+6033,2-850 - Bridges/Footbridges
+6041,3 - Concrete
+6049,10-200 - Louvers and Vents
+6057,13-185 - Kennels and Animal Shelters
+6065,4-400 - Stone
+6073,11-900 - Exhibit Equipment
+6081,2-915 - Mulch
+6089,10-240 - Grilles and Screens
+6097,3-210 - Cast-In-Place Concrete
+6105,9-700 - Wall Finishes
+6113,2-250 - Shoring and Underpinning
+6121,13-500 - Recording Instrumentation
+6129,2-311 - Final Grading
+6137,13-700 - Security Access and Surveillance
+6145,4 - Masonry
+6153,8 - Doors and Windows
+6161,2-936 - Fertilizer
+6169,7-100 - Damproofing and Waterproofing
+6177,10-350 - Flagpoles
+6185,2-919 - Topsoil
+6193,10-670 - Storage Shelving
+6201,2-813 - Lawn Sprinkling and Irrigation
+6209,3 - Concrete
+6217,15-200 - Process Piping
+6225,3-500 - Cementitious Decks and Underlayments
+6233,2-316 - Backfilling
+6241,16-200 - Electrical Power
+6249,10-300 - Fireplaces and Stoves
+6257,15-400 - Plumbing Fixtures and Equipment
+6265,3-050 - Concrete Subcontractor
+6273,13-160 - Aquariums
+6281,1-530 - Temporary Construction
+6289,2-316 - Backfilling
+6297,15-050 - Basic Mechanical Materials and Methods
+6305,6-200 - Finish Carpentry
+6313,1-520 - Construction Facilities
+6321,12-400 - Furnishings and Accessories
+6329,7-900 - Joint Sealers
+6337,15-800 - Air Distribution
+6345,14-300 - Escalators and Moving Walks
+6353,4-800 - Masonry Assemblies
+6361,4-500 - Refractories
+6369,1-550 - Vehicular Access and Parking
+6377,3 - Concrete
+6385,16-500 - Lighting
+6393,7-800 - Fire and Smoke Protection
+6401,13-800 - Building Automation and Control
+6409,10-520 - Fire Protection Specialties
+6417,2-300 - Earthwork
+6425,10-820 - Bathroom Accessories
+6433,2-240 - Dewatering
+6441,2-230 - Site Clearing
+6449,16-800 - Sound and Video
+6457,3-050 - Concrete Subcontractor
+6465,13-550 - Transportation Control Instrumentation
+6473,2-900 - Landscaping
+6481,2-917 - Soil Preparation
+6489,2-740 - Flexible Pavement Asphalt Pavement
+6497,14-900 - Transportation
+6505,3-100 - Concrete Reinforcement
+6513,6-400 - Architectural Woodwork
+6521,3-330 - Poured Concrete Basement Walls
+6529,12-100 - Art
+6537,5-700 - Ornamental Metal
+6545,2-821 - Chain Link Fences
+6553,5-300 - Metal Deck
+6561,11-200 - Water Supply and Treatment Equipment
+6569,1-520 - Construction Facilities
+6577,14-800 - Scaffolding
+6585,11-600 - Laboratory Equipment
+6593,11-900 - Exhibit Equipment
+6601,10-340 - Manufactured Exterior Specialties
+6609,11-120 - Vending Equipment
+6617,"15-950 - Testing, Adjusting, and Balancing"
+6625,2-917 - Soil Preparation
+6633,11-470 - Darkroom Equipment
+6641,13-230 - Digester Covers and Appurtenances
+6649,2-830 - Retaining Walls
+6657,11-660 - Observatory Equipment
+6665,13-020 - Building Modules
+6673,2-362 - Termite Control
+6681,5-700 - Ornamental Metal
+6689,3-400 - Precast Concrete
+6697,8-700 - Hardware
+6705,"10-800 - Toilet, Bath, and Laundry Specialties"
+6713,12-600 - Multiple Seating
+6721,17-040 - Profit
+6729,7-200 - Thermal Protection - Insulation
+6737,3-310 - Expansion Joints
+6745,"13-080 - Sound, Vibration, and Seismic Control"
+6753,2-740 - Flexible Pavement Asphalt Pavement
+6761,2-923 - Seeding and Soil Supplements
+6769,5-100 - Structural Metals
+6777,9-400 - Terrazzo
+6785,9-900 - Paints and Coatings
+6793,8-600 - Skylights
+6801,6-200 - Finish Carpentry
+6809,13-020 - Building Modules
+6817,2-923 - Seeding and Soil Supplements
+6825,11-090 - Checkroom Equipment
+6833,3-600 - Grouts
+6841,12-100 - Art
+6849,1-012 - Superintendent
+6857,15-900 - HVAC Instruments and Controls
+6865,12-500 - Furniture
+6873,9-250 - Gypsum Wallboard
+6881,13-220 - Filter Underdrains and Media
+6889,9-250 - Gypsum Wallboard
+6897,13-900 - Fire Suppression
+6905,1-740 - Cleaning
+6913,2-822 - Ornamental Metal Fences and Gates
+6921,3-500 - Cementitious Decks and Underlayments
+6929,2-935 - Plant Maintenance
+6937,13-030 - Special Purpose Rooms
+6945,8-300 - Specialty Doors
+6953,1-540 - Construction Aids
+6961,2-770 - Curb and Gutters
+6969,"15-950 - Testing, Adjusting, and Balancing"
+6977,2-310 - Grading
+6985,3-230 - Anchor Bolts
+6993,13-700 - Security Access and Surveillance
+7001,7-200 - Thermal Protection - Insulation
+7009,2-500 - Utility Services
+7017,2-500 - Utility Services
+7025,2-000 - General
+7033,1-540 - Construction Aids
+7041,10-820 - Bathroom Accessories
+7049,2-740 - Flexible Pavement Asphalt Pavement
+7057,2-784 - Stone Unit Pavers
+7065,12-600 - Multiple Seating
+7073,1-640 - Owner Furnished Products
+7081,1 - General Requirements
+7089,"15-700 - Heating, Venting and Air Conditioning"
+7097,2-621 - Foundatation Drainage Piping
+7105,8-700 - Hardware
+7113,7-700 - Roof Specialties and Accessories
+7121,2-362 - Termite Control
+7129,"10-800 - Toilet, Bath, and Laundry Specialties"
+7137,16-300 - Transmission and Distribution
+7145,1-012 - Superintendent
+7153,9-900 - Paints and Coatings
+7161,15-300 - Fire Protection Piping
+7169,8-100 - Doors
+7177,11-010 - Maintenance Equipment
+7185,11-450 - Residential Equipment
+7193,13-900 - Fire Suppression
+7201,3-320 - Slab Foundations
+7209,14-600 - Hoists and Cables
+7217,12-800 - Interior Plants and Planters
+7225,13-500 - Recording Instrumentation
+7233,3-600 - Grouts
+7241,9-100 - Metal Support Assemblies
+7249,1-640 - Owner Furnished Products
+7257,8 - Doors and Windows
+7265,10-600 - Partitions
+7273,13 - Special Construction
+7281,2-870 - Sculpture/Ornamental
+7289,12-400 - Furnishings and Accessories
+7297,16-800 - Sound and Video
+7305,9-500 - Ceilings
+7313,1-640 - Owner Furnished Products
+7321,2-312 - Rough Grading
+7329,14-600 - Hoists and Cables
+7337,11-150 - Parking Control Equipment
+7345,10-350 - Flagpoles
+7353,10-550 - Postal Specialties
+7361,"15-950 - Testing, Adjusting, and Balancing"
+7369,9-600 - Flooring
+7377,2-780 - Clay Unit Pavers
+7385,3-210 - Cast-In-Place Concrete
+7393,12-900 - Furnishings Restoration and Repair
+7401,2-822 - Ornamental Metal Fences and Gates
+7409,13-700 - Security Access and Surveillance
+7417,2-250 - Shoring and Underpinning
+7425,5-300 - Metal Deck
+7433,15-300 - Fire Protection Piping
+7441,11-140 - Vehicle Service Equipment
+7449,2-784 - Stone Unit Pavers
+7457,1-012 - Superintendent
+7465,5-500 - Metal Fabrications
+7473,10-880 - Scales
+7481,8-700 - Hardware
+7489,11-080 - Registration Equipment
+7497,11-190 - Detention Equipment
+7505,2-500 - Utility Services
+7513,9-250 - Gypsum Wallboard
+7521,8-200 - Wood and Plastic Doors
+7529,17 - Markup and Contingency
+7537,7-800 - Fire and Smoke Protection
+7545,1-700 - Execution Requirements
+7553,13-240 - Oxygenation Systems
+7561,1-550 - Vehicular Access and Parking
+7569,4 - Masonry
+7577,13-400 - Measurement and Control Instrumentation
+7585,11-450 - Residential Equipment
+7593,2-924 - Sodding
+7601,3-350 - Concrete Finishing
+7609,13-220 - Filter Underdrains and Media
+7617,13-120 - Pre-Engineered Structures
+7625,6-600 - Plastic Fabrications
+7633,16-200 - Electrical Power
+7641,8-100 - Doors
+7649,2-320 - Excavation and Fill
+7657,2-317 - Select Borrow
+7665,1-000 - Purpose
+7673,15-800 - Air Distribution
+7681,2-900 - Landscaping
+7689,8-300 - Specialty Doors
+7697,5-800 - Expansion Control
+7705,4-700 - Simulated Masonry
+7713,16-200 - Electrical Power
+7721,2-870 - Sculpture/Ornamental
+7729,2-812 - Drip Irrigation
+7737,7-100 - Damproofing and Waterproofing
+7745,11-170 - Solid Waste Handling Equipment
+7753,4-900 - Masonry Restoration and Cleaning
+7761,13-090 - Radiation Protection
+7769,8-800 - Glazing
+7777,8-100 - Doors
+7785,10-750 - Telephone Specialties
+7793,1-520 - Construction Facilities
+7801,10-260 - Wall and Corner Guards
+7809,2-320 - Excavation and Fill
+7817,13-500 - Recording Instrumentation
+7825,"15-950 - Testing, Adjusting, and Balancing"
+7833,13-900 - Fire Suppression
+7841,10-250 - Service Walls
+7849,2-784 - Stone Unit Pavers
+7857,11-300 - Fluid Waste Treatment and Disposal Equipment
+7865,14 - Conveying Systems
+7873,13-030 - Special Purpose Rooms
+7881,1-012 - Superintendent
+7889,2-540 - Septic Tank
+7897,11-470 - Darkroom Equipment
+7905,2-250 - Shoring and Underpinning
+7913,2-936 - Fertilizer
+7921,11-780 - Mortuary Equipment
+7929,11-400 - Food Service Equipment
+7937,2-924 - Sodding
+7945,14-800 - Scaffolding
+7953,14-100 - Dumbwaiters
+7961,2-311 - Final Grading
+7969,5-800 - Expansion Control
+7977,7 - Thermal and Moisture Protection
+7985,2-821 - Chain Link Fences
+7993,1-530 - Temporary Construction
